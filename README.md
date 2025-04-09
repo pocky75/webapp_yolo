@@ -6,7 +6,7 @@ yolov5.pt 원형 모델을 이용하여 objecty detect를 하는 파이썬 프�
 👉 pip install -r requirements.txt
 
 # ‼️시작하기 전 꼭 해야할 것‼️
-github copliot을 이용하여 yolov5s.pt를 다운로드 필수❗
+github copliot을 이용하여 yolov5s.pt 다운로드 필수❗
 
 # vscode에서 index.html을 실행 하였을 때 화면
 ![image](https://github.com/user-attachments/assets/383935d1-e8b5-4649-a446-69ec28bb8f84)
