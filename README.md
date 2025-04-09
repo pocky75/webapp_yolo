@@ -4,7 +4,7 @@ yolov5.pt 원형 모델을 이용하여 objecty detect를 하는 파이썬 프�
 
 # 아래의 프로그램을 실행시키기 위한 라이브러리 설치
 ```bash
-👉 pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 # ‼️시작하기 전 꼭 해야할 것‼️
 github copliot을 이용하여 yolov5s.pt 다운로드 필수❗
