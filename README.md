@@ -1,12 +1,12 @@
 # 아래의 프로그램을 실행시키기 위한 라이브러리 설치
-##👉 pip install -r requirements.txt
+👉 pip install -r requirements.txt
 
 # YOLOv5를 이용한 웹앱 프로그램
 yolov5.pt 원형 모델을 이용하여 objecty detect를 하는 파이썬 프로그램을 하였고
 파이썬 코드를 index.html로 바꾸어 달라고 github copliot을 이용해서 진행 하였습니다.
 
 # ‼️시작하기 전 꼭 해야할 것‼️
-github copliot을 이용하여 yolov5s.pt를 다운로드 해야함
+github copliot을 이용하여 yolov5s.pt를 다운로드 필수❗
 
 # vscode에서 index.html을 실행 하였을 때 화면
 ![image](https://github.com/user-attachments/assets/383935d1-e8b5-4649-a446-69ec28bb8f84)
