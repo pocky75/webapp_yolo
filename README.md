@@ -16,7 +16,7 @@ github copliot을 이용하여 yolov5s.pt 다운로드 필수❗
 ![image](https://github.com/user-attachments/assets/3e414d35-557a-40af-9f52-24e1c9ba9608)
 
 # yolov5모델을 python을 이용하여 youtube영상을 인식하는 화면
-youtube 인식 프로그램 실행전에 설치‼️
+👇 youtube 인식 프로그램 실행전에 설치‼️
 ```
 pip install yt-dlp
 ```
